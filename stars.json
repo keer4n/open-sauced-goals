@@ -1,117 +1,117 @@
 [
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 202,
-    "open_issues_count": 40,
-    "forks_count": 75
+    "stargazers_count": 203,
+    "open_issues_count": 42,
+    "forks_count": 77
   },
   {
     "full_name": "Endava/cats",
     "stargazers_count": 881,
-    "open_issues_count": 1,
-    "forks_count": 51
+    "open_issues_count": 0,
+    "forks_count": 52
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 205448,
+    "stargazers_count": 205668,
     "open_issues_count": 340,
-    "forks_count": 36943
+    "forks_count": 36978
   },
   {
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 12045,
-    "open_issues_count": 7,
-    "forks_count": 1363
+    "stargazers_count": 12092,
+    "open_issues_count": 5,
+    "forks_count": 1368
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 63763,
-    "open_issues_count": 833,
-    "forks_count": 3118
+    "stargazers_count": 63887,
+    "open_issues_count": 839,
+    "forks_count": 3122
   },
   {
     "full_name": "fonttools/fonttools",
-    "stargazers_count": 3444,
-    "open_issues_count": 297,
-    "forks_count": 406
+    "stargazers_count": 3446,
+    "open_issues_count": 295,
+    "forks_count": 408
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 2055,
+    "stargazers_count": 2058,
     "open_issues_count": 28,
     "forks_count": 591
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 27371,
-    "open_issues_count": 6023,
-    "forks_count": 17474
+    "stargazers_count": 27401,
+    "open_issues_count": 6057,
+    "forks_count": 17487
   },
   {
     "full_name": "metmuseum/openaccess",
-    "stargazers_count": 979,
+    "stargazers_count": 980,
     "open_issues_count": 23,
     "forks_count": 173
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15611,
-    "open_issues_count": 588,
-    "forks_count": 2837
+    "stargazers_count": 15627,
+    "open_issues_count": 592,
+    "forks_count": 2841
   },
   {
     "full_name": "technomancy/leiningen",
     "stargazers_count": 7283,
-    "open_issues_count": 110,
-    "forks_count": 1646
+    "open_issues_count": 111,
+    "forks_count": 1644
   },
   {
     "full_name": "org-roam/org-roam-ui",
-    "stargazers_count": 1439,
+    "stargazers_count": 1446,
     "open_issues_count": 92,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 19592,
-    "open_issues_count": 111,
-    "forks_count": 3426
+    "stargazers_count": 19608,
+    "open_issues_count": 113,
+    "forks_count": 3430
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 19521,
+    "stargazers_count": 19540,
     "open_issues_count": 254,
     "forks_count": 887
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 11544,
-    "open_issues_count": 347,
-    "forks_count": 1071
+    "stargazers_count": 11735,
+    "open_issues_count": 345,
+    "forks_count": 1083
   },
   {
     "full_name": "googleapis/release-please",
-    "stargazers_count": 1822,
-    "open_issues_count": 67,
-    "forks_count": 204
+    "stargazers_count": 1835,
+    "open_issues_count": 72,
+    "forks_count": 206
   },
   {
     "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 12789,
-    "open_issues_count": 125,
-    "forks_count": 781
+    "stargazers_count": 12803,
+    "open_issues_count": 124,
+    "forks_count": 782
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 23993,
-    "open_issues_count": 118,
+    "stargazers_count": 24025,
+    "open_issues_count": 124,
     "forks_count": 1186
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 37079,
+    "stargazers_count": 37357,
     "open_issues_count": 392,
-    "forks_count": 5711
+    "forks_count": 5762
   },
   {
     "full_name": "dirkweber/svg-filter-typeeffects",
@@ -121,62 +121,62 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 5503,
-    "open_issues_count": 412,
-    "forks_count": 132
+    "stargazers_count": 5545,
+    "open_issues_count": 419,
+    "forks_count": 133
   },
   {
     "full_name": "Adobe-CEP/CEP-Resources",
-    "stargazers_count": 1301,
-    "open_issues_count": 226,
+    "stargazers_count": 1302,
+    "open_issues_count": 227,
     "forks_count": 772
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 45449,
-    "open_issues_count": 680,
-    "forks_count": 2214
+    "stargazers_count": 45648,
+    "open_issues_count": 687,
+    "forks_count": 2222
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 22378,
+    "stargazers_count": 22401,
     "open_issues_count": 29,
-    "forks_count": 3230
+    "forks_count": 3235
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 4819,
-    "open_issues_count": 273,
-    "forks_count": 338
+    "stargazers_count": 4852,
+    "open_issues_count": 276,
+    "forks_count": 343
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 178336,
-    "open_issues_count": 269,
-    "forks_count": 17167
+    "stargazers_count": 179120,
+    "open_issues_count": 268,
+    "forks_count": 17241
   },
   {
     "full_name": "sveltejs/realworld",
-    "stargazers_count": 1730,
+    "stargazers_count": 1735,
     "open_issues_count": 4,
-    "forks_count": 316
+    "forks_count": 317
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 70749,
+    "stargazers_count": 70802,
     "open_issues_count": 62,
-    "forks_count": 6623
+    "forks_count": 6630
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 15535,
-    "open_issues_count": 33,
-    "forks_count": 1331
+    "stargazers_count": 15562,
+    "open_issues_count": 34,
+    "forks_count": 1341
   },
   {
     "full_name": "sapphiredev/framework",
-    "stargazers_count": 436,
+    "stargazers_count": 438,
     "open_issues_count": 13,
-    "forks_count": 62
+    "forks_count": 61
   }
 ]
