@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "fireship-io/supaship.io",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
     "full_name": "HackerNews/API",
-    "stargazers_count": 9572,
+    "stargazers_count": 9581,
     "open_issues_count": 2,
     "forks_count": 588
   },
   {
     "full_name": "svelte-add/svelte-add",
-    "stargazers_count": 971,
-    "open_issues_count": 65,
+    "stargazers_count": 977,
+    "open_issues_count": 66,
     "forks_count": 18
   },
   {
     "full_name": "spulec/moto",
-    "stargazers_count": 6524,
-    "open_issues_count": 75,
-    "forks_count": 1772
+    "stargazers_count": 6544,
+    "open_issues_count": 79,
+    "forks_count": 1774
   },
   {
     "full_name": "electronicarts/EAStdC",
     "stargazers_count": 445,
     "open_issues_count": 8,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 205,
-    "open_issues_count": 42,
-    "forks_count": 76
+    "stargazers_count": 206,
+    "open_issues_count": 43,
+    "forks_count": 77
   },
   {
     "full_name": "Endava/cats",
@@ -37,39 +43,39 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 206779,
-    "open_issues_count": 342,
-    "forks_count": 37115
+    "stargazers_count": 207026,
+    "open_issues_count": 343,
+    "forks_count": 37146
   },
   {
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 12312,
+    "stargazers_count": 12369,
     "open_issues_count": 5,
-    "forks_count": 1389
+    "forks_count": 1394
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 64316,
-    "open_issues_count": 861,
-    "forks_count": 3143
+    "stargazers_count": 64387,
+    "open_issues_count": 848,
+    "forks_count": 3146
   },
   {
     "full_name": "fonttools/fonttools",
-    "stargazers_count": 3461,
+    "stargazers_count": 3465,
     "open_issues_count": 303,
     "forks_count": 412
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 2074,
+    "stargazers_count": 2081,
     "open_issues_count": 28,
-    "forks_count": 590
+    "forks_count": 591
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 27509,
-    "open_issues_count": 6124,
-    "forks_count": 17561
+    "stargazers_count": 27529,
+    "open_issues_count": 6121,
+    "forks_count": 17581
   },
   {
     "full_name": "metmuseum/openaccess",
@@ -79,63 +85,63 @@
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 15698,
-    "open_issues_count": 610,
-    "forks_count": 2859
+    "stargazers_count": 15716,
+    "open_issues_count": 614,
+    "forks_count": 2862
   },
   {
     "full_name": "technomancy/leiningen",
-    "stargazers_count": 7286,
+    "stargazers_count": 7290,
     "open_issues_count": 111,
-    "forks_count": 1645
+    "forks_count": 1643
   },
   {
     "full_name": "org-roam/org-roam-ui",
-    "stargazers_count": 1463,
-    "open_issues_count": 94,
+    "stargazers_count": 1469,
+    "open_issues_count": 95,
     "forks_count": 67
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 19695,
-    "open_issues_count": 119,
-    "forks_count": 3439
+    "stargazers_count": 19723,
+    "open_issues_count": 120,
+    "forks_count": 3443
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 19662,
-    "open_issues_count": 269,
-    "forks_count": 894
+    "stargazers_count": 19689,
+    "open_issues_count": 265,
+    "forks_count": 896
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 12300,
-    "open_issues_count": 380,
-    "forks_count": 1104
+    "stargazers_count": 12359,
+    "open_issues_count": 391,
+    "forks_count": 1107
   },
   {
     "full_name": "googleapis/release-please",
-    "stargazers_count": 1884,
-    "open_issues_count": 74,
-    "forks_count": 208
+    "stargazers_count": 1912,
+    "open_issues_count": 75,
+    "forks_count": 207
   },
   {
     "full_name": "conventional-changelog/commitlint",
-    "stargazers_count": 12891,
-    "open_issues_count": 124,
+    "stargazers_count": 12917,
+    "open_issues_count": 126,
     "forks_count": 788
   },
   {
     "full_name": "lovell/sharp",
-    "stargazers_count": 24104,
-    "open_issues_count": 111,
-    "forks_count": 1187
+    "stargazers_count": 24121,
+    "open_issues_count": 113,
+    "forks_count": 1186
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 38242,
-    "open_issues_count": 408,
-    "forks_count": 5912
+    "stargazers_count": 38462,
+    "open_issues_count": 409,
+    "forks_count": 5967
   },
   {
     "full_name": "dirkweber/svg-filter-typeeffects",
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 5663,
+    "stargazers_count": 5703,
     "open_issues_count": 428,
-    "forks_count": 137
+    "forks_count": 139
   },
   {
     "full_name": "Adobe-CEP/CEP-Resources",
-    "stargazers_count": 1307,
+    "stargazers_count": 1309,
     "open_issues_count": 227,
     "forks_count": 772
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 46057,
-    "open_issues_count": 717,
-    "forks_count": 2245
+    "stargazers_count": 46130,
+    "open_issues_count": 705,
+    "forks_count": 2252
   },
   {
     "full_name": "OWASP/CheatSheetSeries",
-    "stargazers_count": 22503,
-    "open_issues_count": 41,
-    "forks_count": 3262
+    "stargazers_count": 22532,
+    "open_issues_count": 29,
+    "forks_count": 3264
   },
   {
     "full_name": "changesets/changesets",
-    "stargazers_count": 4934,
-    "open_issues_count": 280,
-    "forks_count": 351
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 181514,
-    "open_issues_count": 271,
-    "forks_count": 17523
+    "stargazers_count": 4951,
+    "open_issues_count": 283,
+    "forks_count": 353
   }
 ]
