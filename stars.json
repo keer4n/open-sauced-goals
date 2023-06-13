@@ -1,20 +1,20 @@
 [
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 56919,
-    "open_issues_count": 525,
-    "forks_count": 5042
+    "stargazers_count": 57000,
+    "open_issues_count": 520,
+    "forks_count": 5049
   },
   {
     "full_name": "standard/standard",
-    "stargazers_count": 28259,
-    "open_issues_count": 106,
+    "stargazers_count": 28267,
+    "open_issues_count": 105,
     "forks_count": 2414
   },
   {
     "full_name": "ellisonleao/magictools",
-    "stargazers_count": 11653,
-    "open_issues_count": 2,
+    "stargazers_count": 11675,
+    "open_issues_count": 3,
     "forks_count": 942
   },
   {
@@ -25,68 +25,68 @@
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 82000,
-    "open_issues_count": 1950,
-    "forks_count": 15882
+    "stargazers_count": 82999,
+    "open_issues_count": 1972,
+    "forks_count": 16072
   },
   {
     "full_name": "HoudiniGraphql/houdini",
-    "stargazers_count": 699,
-    "open_issues_count": 26,
+    "stargazers_count": 700,
+    "open_issues_count": 27,
     "forks_count": 70
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 31986,
-    "open_issues_count": 34,
-    "forks_count": 2770
+    "stargazers_count": 32187,
+    "open_issues_count": 36,
+    "forks_count": 2793
   },
   {
     "full_name": "rejeep/prodigy.el",
-    "stargazers_count": 518,
+    "stargazers_count": 519,
     "open_issues_count": 27,
     "forks_count": 36
   },
   {
     "full_name": "supabase/supa_audit",
-    "stargazers_count": 468,
+    "stargazers_count": 470,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 41232,
+    "stargazers_count": 41279,
     "open_issues_count": 118,
-    "forks_count": 2134
+    "forks_count": 2138
   },
   {
     "full_name": "open-source-labs/Svelvet",
-    "stargazers_count": 1961,
-    "open_issues_count": 30,
-    "forks_count": 125
+    "stargazers_count": 1967,
+    "open_issues_count": 31,
+    "forks_count": 129
   },
   {
     "full_name": "citusdata/pg_cron",
-    "stargazers_count": 2063,
+    "stargazers_count": 2066,
     "open_issues_count": 84,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "pramsey/pgsql-http",
-    "stargazers_count": 972,
+    "stargazers_count": 973,
     "open_issues_count": 3,
     "forks_count": 108
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 18311,
-    "open_issues_count": 258,
-    "forks_count": 1348
+    "stargazers_count": 18346,
+    "open_issues_count": 263,
+    "forks_count": 1356
   },
   {
     "full_name": "vadimdemedes/ink",
-    "stargazers_count": 23430,
-    "open_issues_count": 45,
+    "stargazers_count": 23457,
+    "open_issues_count": 46,
     "forks_count": 568
   },
   {
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "HackerNews/API",
-    "stargazers_count": 9980,
+    "stargazers_count": 9989,
     "open_issues_count": 2,
     "forks_count": 620
   },
   {
     "full_name": "svelte-add/svelte-add",
     "stargazers_count": 1158,
-    "open_issues_count": 54,
+    "open_issues_count": 51,
     "forks_count": 21
   },
   {
     "full_name": "getmoto/moto",
-    "stargazers_count": 6861,
-    "open_issues_count": 57,
-    "forks_count": 1862
+    "stargazers_count": 6869,
+    "open_issues_count": 60,
+    "forks_count": 1865
   },
   {
     "full_name": "electronicarts/EAStdC",
-    "stargazers_count": 462,
+    "stargazers_count": 461,
     "open_issues_count": 12,
     "forks_count": 85
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 221813,
-    "open_issues_count": 381,
-    "forks_count": 39307
+    "stargazers_count": 222053,
+    "open_issues_count": 380,
+    "forks_count": 39333
   },
   {
     "full_name": "vasanthk/how-web-works",
-    "stargazers_count": 14055,
+    "stargazers_count": 14070,
     "open_issues_count": 6,
-    "forks_count": 1555
+    "forks_count": 1557
   },
   {
     "full_name": "sveltejs/svelte",
-    "stargazers_count": 68324,
-    "open_issues_count": 849,
-    "forks_count": 3343
+    "stargazers_count": 68400,
+    "open_issues_count": 851,
+    "forks_count": 3348
   },
   {
     "full_name": "fonttools/fonttools",
-    "stargazers_count": 3666,
-    "open_issues_count": 311,
-    "forks_count": 426
+    "stargazers_count": 3671,
+    "open_issues_count": 312,
+    "forks_count": 427
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 2381,
-    "open_issues_count": 26,
-    "forks_count": 636
+    "stargazers_count": 2391,
+    "open_issues_count": 27,
+    "forks_count": 637
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 29389,
-    "open_issues_count": 5565,
-    "forks_count": 18838
+    "stargazers_count": 29436,
+    "open_issues_count": 5588,
+    "forks_count": 18876
   },
   {
     "full_name": "metmuseum/openaccess",
-    "stargazers_count": 1039,
+    "stargazers_count": 1040,
     "open_issues_count": 24,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "doomemacs/doomemacs",
-    "stargazers_count": 16761,
-    "open_issues_count": 665,
-    "forks_count": 2944
+    "stargazers_count": 16780,
+    "open_issues_count": 668,
+    "forks_count": 2943
   }
 ]
